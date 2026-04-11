@@ -7,3 +7,4 @@ Features
 Technologies Used 
 React for building the user interface. 
 CSS for styling and layout.
+adding new feature adding 
